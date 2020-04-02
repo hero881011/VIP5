@@ -1,5 +1,5 @@
 # coding=utf-8
-import requests,time,json
+import requests, time, json
 
 # print(time.time())
 
@@ -15,16 +15,11 @@ print(jsonres['token'])
 # print(jsonres)
 
 # 构造函数
-params = {'username':'Will',
-          'password':'123456'
+params = {'username': 'Will',
+          'password': '123456'
           }
 
 # 发包
-res = requests.post('http://112.74.191.10:80/inter/HTTP/login',data=params,headers={'token':jsonres['token']})
+res = requests.post('http://112.74.191.10:80/inter/HTTP/login', data=params, headers={'token': jsonres['token']})
 # print(res.content.decode('utf-8'))
 print(res.text)
-
-
-
-
-

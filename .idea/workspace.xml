@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7812ea93-a0c5-4975-a8d8-244cca067775" name="Default" comment="" />
+    <list default="true" id="7812ea93-a0c5-4975-a8d8-244cca067775" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/python/class09/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/class09/example01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/class09/homework09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/class07/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/class07/homework07.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/class07/homework07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/class9/DY_hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/class9/DY_hero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/class9/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/class9/test01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +30,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z6IrPk5yeTsJareZUvt9JcVgb4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyTestFrame4-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -41,9 +57,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\lib" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\class07" />
       <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\class06" />
@@ -51,8 +64,12 @@
       <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\class04" />
       <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\class03" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\VIP5\python\class09" />
+      <recent name="C:\Users\herozhu\PycharmProjects\VIP5\python\lib" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
+  <component name="RunManager" selected="Python.homework09">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/class07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/class08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/class07/example01.py" />
+      <option name="SCRIPT_NAME" value="D:\git\VIP5\python\class09\example01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VIP5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/class07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/class08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/class07/homework07.py" />
+      <option name="SCRIPT_NAME" value="D:\git\VIP5\python\class09\homework09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +195,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.example01" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.homework07" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test1 (1)" />
+      <item itemvalue="Python.example01 (1)" />
+      <item itemvalue="Python.homework09" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework09" />
+        <item itemvalue="Python.example01 (1)" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test1 (1)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.homework07" />
-        <item itemvalue="Python.example01" />
       </list>
     </recent_temporary>
   </component>
@@ -236,38 +253,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="610" y="185" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585533517416" />
-    <state width="1079" height="76" key="GridCell.Tab.0.bottom" timestamp="1585669932627">
+    <state width="998" height="528" key="GridCell.Tab.0.bottom" timestamp="1585822883955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1079" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585669932627" />
-    <state width="1079" height="76" key="GridCell.Tab.0.center" timestamp="1585669932627">
+    <state width="998" height="528" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585822883955" />
+    <state width="998" height="528" key="GridCell.Tab.0.center" timestamp="1585822883954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1079" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585669932627" />
-    <state width="1079" height="76" key="GridCell.Tab.0.left" timestamp="1585669932627">
+    <state width="998" height="528" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585822883954" />
+    <state width="998" height="528" key="GridCell.Tab.0.left" timestamp="1585822883953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1079" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585669932627" />
-    <state width="1079" height="76" key="GridCell.Tab.0.right" timestamp="1585669932627">
+    <state width="998" height="528" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585822883953" />
+    <state width="998" height="528" key="GridCell.Tab.0.right" timestamp="1585822883954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1079" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585669932627" />
-    <state width="880" height="212" key="GridCell.Tab.1.bottom" timestamp="1584887739750">
+    <state width="998" height="528" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585822883954" />
+    <state width="938" height="212" key="GridCell.Tab.1.bottom" timestamp="1585819252576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="880" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584887739750" />
-    <state width="880" height="212" key="GridCell.Tab.1.center" timestamp="1584887739750">
+    <state width="938" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585819252576" />
+    <state width="938" height="212" key="GridCell.Tab.1.center" timestamp="1585819252575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="880" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584887739750" />
-    <state width="880" height="212" key="GridCell.Tab.1.left" timestamp="1584887739750">
+    <state width="938" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585819252575" />
+    <state width="938" height="212" key="GridCell.Tab.1.left" timestamp="1585819252575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="880" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584887739750" />
-    <state width="880" height="212" key="GridCell.Tab.1.right" timestamp="1584887739750">
+    <state width="938" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585819252575" />
+    <state width="938" height="212" key="GridCell.Tab.1.right" timestamp="1585819252576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="880" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584887739750" />
+    <state width="938" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585819252576" />
     <state x="587" y="83" width="914" height="715" key="SettingsEditor" timestamp="1585313858282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -284,9 +301,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="661" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584806747784" />
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585490701687">
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585808681624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585490701687" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585808681624" />
   </component>
 </project>

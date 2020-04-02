@@ -1,5 +1,5 @@
 # coding=utf-8
-from FZ_hero import HTTP
+from class9.FZ_hero import HTTP
 
 # 创建一个http请求库的实例对象
 http = HTTP()

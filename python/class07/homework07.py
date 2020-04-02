@@ -28,7 +28,11 @@ class Web:
             if dr is None:
                 ex = '../lib/geckodriver.exe'
 
-            profile = r'C:\Users\herozhu\AppData\Roaming\Mozilla\Firefox\Profiles\vpunq82s.default'
+            # 有cookie的，但是缓存不存在，所以架在还是比较慢
+            # 使用cmd命令去创建一个用户文件
+            # "C:\Program Files\Mozilla Firefox\firefox.exe" -p
+
+            profile = r'C:\Users\herozhu\AppData\Roaming\Mozilla\Firefox\Profiles\mytest.mytest'
             option = webdriver.FirefoxOptions()
             option.profile = profile
             self.driver = webdriver.Firefox(firefox_options=option, executable_path=dr)
